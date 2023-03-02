@@ -7,4 +7,6 @@ Which are:
 How to create a git repo
 How to git commit
 How to do an HTML boilerplate
+How to add images in an html file
+How to add relative links
 
