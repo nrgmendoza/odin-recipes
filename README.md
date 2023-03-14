@@ -9,4 +9,7 @@ How to git commit
 How to do an HTML boilerplate
 How to add images in an html file
 How to add relative links
+How to utilize CSS to make the website look better
+How to center a div
+
 
